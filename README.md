@@ -157,4 +157,5 @@ This project is intended for educational and learning purposes.
 
 ## Author
 
-Titanic Data Analysis Project
+Jenil M. Panchal
+(Data Science Enthusiast)
