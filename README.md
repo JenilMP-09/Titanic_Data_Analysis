@@ -66,7 +66,7 @@ The main objectives of this project are:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -83,7 +83,7 @@ pip install pandas numpy matplotlib seaborn notebook
 3. Launch Jupyter Notebook:
 
 ```bash
-jupyter notebook
+google colab
 ```
 
 4. Open:
